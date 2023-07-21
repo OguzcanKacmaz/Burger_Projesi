@@ -1,0 +1,36 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-top {
+    background-image: url("../assets/steak.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    width: 90%;
+    height: 450px;
+    margin-top: 20px;
+}
+
+.aboutBottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px 0;
+    width: 90%;
+}
+
+.aboutBottom h1 {
+    padding: 10px;
+}
+
+.aboutBottom p {
+    width: 100%;
+    margin: 10px 0;
+    text-align: center;
+}

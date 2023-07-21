@@ -1,4 +1,4 @@
-#React Burger Dükkanı Uygulaması
+# React Burger Dükkanı Uygulaması
 
 ## Öğrenme aşamasında bulunduğum React ile hazırlamış olduğum burger uygulaması.
 
